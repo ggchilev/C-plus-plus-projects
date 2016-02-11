@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1452524506 source:/home/george_94/C projects/cenev_kursova/main.cpp
+	<iostream>
+	<string>
+	<fstream>
+

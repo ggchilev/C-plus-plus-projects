@@ -1,0 +1,43 @@
+
+ Grades for student Dancho : 
+
+ Semester 1 : 
+Semester 2 : emester 2 : mester 2 : ester 2 : 
+ Semester 2 : 
+Semester 2 : Semester 2 : Semester 2 : Semester 2 : emester 2 : 
+ Grades for student Cenev : 
+
+ Semester 1 : 
+ester 2 : ester 2 : ester 2 : ester 2 : ester 2 : 
+ Semester 2 : 
+Semester 2 : mester 2 : Semester 2 : emester 2 : 
+ Grades for student Chilev : 
+
+ Semester 1 : 
+ester 2 : ester 2 : ester 2 : ester 2 : ester 2 : 
+ Semester 2 : 
+mester 2 : ester 2 : mester 2 : ester 2 : 
+ Grades for student Bota : 
+
+ Semester 1 : 
+Semester 2 : mester 2 : Semester 2 : emester 2 : 
+ Semester 2 : 
+mester 2 : mester 2 : emester 2 : Semester 2 : emester 2 : 
+ Grades for student Minka : 
+
+ Semester 1 : 
+mester 2 : ester 2 : mester 2 : ester 2 : 
+ Semester 2 : 
+Semester 2 : emester 2 : mester 2 : ester 2 : 
+ Grades for student Dancho : 
+
+ Semester 1 : 
+Semester 2 : emester 2 : mester 2 : ester 2 : Semester 2 : Semester 2 : Semester 2 : Semester 2 : emester 2 : 
+ Grades for student Cenev : 
+
+ Semester 1 : 
+ester 2 : ester 2 : ester 2 : ester 2 : ester 2 : Semester 2 : mester 2 : Semester 2 : emester 2 : 
+ Grades for student Chilev : 
+
+ Semester 1 : 
+ester 2 : ester 2 : ester 2 : ester 2 : ester 2 : mester 2 : ester 2 : mester 2 : ester 2 : 
